@@ -4,7 +4,7 @@ vim.opt.runtimepath:prepend(dpp_src)
 local dpp = require("dpp")
 
 local dpp_base = "~/.dpp/shougoware/"
-local dpp_config = "~/.config/darkpawered/dpp.ts"
+local dpp_config = "~/.config/darkpowered/dpp.ts"
 
 local denops_src = "$HOME/.dpp/vim-denops/denops.vim"
 
