@@ -1,7 +1,7 @@
 [[plugins]]
 repo = 'Shougo/ddu.vim'
 depends = ['denops.vim', 'vim-artemis']
-hooks_file = '$HOOK_DIR/ddu.lua'
+# hooks_file = '$HOOK_DIR/ddu.lua'
 
 [[plugins]]
 repo = 'matsui54/ddu-vim-ui-select'

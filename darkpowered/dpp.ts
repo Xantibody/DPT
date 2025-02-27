@@ -1,3 +1,4 @@
+//つぎはこのオプションを解読する
 import {
   BaseConfig,
   ContextBuilder,

@@ -7,7 +7,7 @@ depends = [
   'vim-artemis',
 ]
 on_event = 'VimEnter'
-hooks_file = '$HOOK_DIR/ddc.lua'
+# hooks_file = '$HOOK_DIR/ddc.lua'
 
 [[plugins]]
 repo = 'Shougo/pum.vim'
